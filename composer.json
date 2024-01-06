@@ -1,1 +1,9 @@
-
+{
+  "name": "sujon/jquery-handy-function",
+  "description": "This package has some common handy functions like resetting values, resetting dynamic table rows, translating amount to taka in word etc.",
+  "require": {
+    "jquery": ">=3.7.1",
+    "select2": "~4.0",
+    "tempus-dominus": "2.11.6"
+  }
+}
